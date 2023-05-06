@@ -1,4 +1,4 @@
-package cn.imufeng;
+package cn.imufeng.eurekalearning;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -17,5 +17,6 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class MicroServiceCloudEureka7001Application {
     public static void main(String[] args) {
         SpringApplication.run(MicroServiceCloudEureka7001Application.class, args);
+        System.out.println("(๑╹◡╹)ﾉ\"\"\"启 动 成 功 ！٩(๑❛ᴗ❛๑)۶");
     }
 }

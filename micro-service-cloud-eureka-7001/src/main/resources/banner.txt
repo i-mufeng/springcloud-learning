@@ -1,0 +1,8 @@
+███╗   ███╗██╗   ██╗███████╗███████╗███╗   ██╗ ██████╗          沐风 ● 栉风沐雨 砥砺前行
+████╗ ████║██║   ██║██╔════╝██╔════╝████╗  ██║██╔════╝
+██╔████╔██║██║   ██║█████╗  █████╗  ██╔██╗ ██║██║  ███╗         邮箱 [${AnsiColor.BLUE}admin@imufeng.cn${AnsiStyle.NORMAL}]
+██║╚██╔╝██║██║   ██║██╔══╝  ██╔══╝  ██║╚██╗██║██║   ██║         主页 [${AnsiColor.BLUE}${AnsiStyle.UNDERLINE}https://imufeng.cn${AnsiStyle.NORMAL}]
+██║ ╚═╝ ██║╚██████╔╝██║     ███████╗██║ ╚████║╚██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝ ╚═════╝
+
+ ${AnsiColor.BRIGHT_YELLOW}Spring Boot: ${spring-boot.formatted-version}${AnsiStyle.NORMAL}
