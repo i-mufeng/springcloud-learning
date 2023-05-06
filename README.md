@@ -9,4 +9,6 @@
 > 
 ## SpringCloud学习项目
 
+基于Maven多模块项目学习SpringCloud并编写Demo。
+
 ### 1、Eureka部署
